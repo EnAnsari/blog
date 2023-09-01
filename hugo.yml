@@ -1,5 +1,5 @@
-baseURL: "https://enansari.github.io/"
-title: Rahmat Page
+baseURL: 'http://EnAnsari.github.io/'
+title: Rahmat Site
 paginate: 5
 theme: PaperMod
 
@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, Rahmat]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -73,22 +73,22 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hi there, I am Rahmat \U0001F44B"
     Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/EnAnsari0"
+      url: "https://twitter.com/enansari0"
     - name: stackoverflow
-      url: "https://stackoverflow.com/users/19568559"
+      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/EnAnsari"
+      url: "https://github.com/enansari"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "Rahmat"
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "Rahmat"
     yandex:
       SiteVerificationTag: "XYZabc"
 
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/enansari/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -123,8 +123,8 @@ menu:
       url: /tags/
       weight: 20
     - identifier: example
-      name: zil.ink
-      url: https://zil.ink/enAnsari
+      name: zilink
+      url: https://zil.ink/enansari
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
