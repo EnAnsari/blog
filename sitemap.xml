@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://EnAnsari.github.io/docs/</loc>
+    <loc>http://EnAnsari.github.io/blog/docs/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://EnAnsari.github.io/tags/first/</loc>
+    <loc>http://EnAnsari.github.io/blog/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://EnAnsari.github.io/docs/test/</loc>
+    <loc>http://EnAnsari.github.io/blog/docs/test/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://EnAnsari.github.io/</loc>
+    <loc>http://EnAnsari.github.io/blog/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://EnAnsari.github.io/tags/</loc>
+    <loc>http://EnAnsari.github.io/blog/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://EnAnsari.github.io/categories/</loc>
+    <loc>http://EnAnsari.github.io/blog/categories/</loc>
   </url>
 </urlset>
